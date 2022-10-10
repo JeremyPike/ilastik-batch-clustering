@@ -12,7 +12,7 @@
 #@ Double (label = "Voxel size (microns)", value = 0.1) voxel_size
 
 
-batch_mode = False
+batch_mode = false
 setBatchMode(batch_mode);
 
 run("Close All");
